@@ -1,9 +1,9 @@
 # tableau-dashboard-project
 📌 Project Overview
 
-Bu projede mobil oyun kullanıcı verileri Tableau ile analiz edilerek interaktif bir dashboard oluşturulmuştur.
+This project analyzes mobile game user data using Tableau and presents the results through an interactive dashboard.
 
-Dashboard; aylık kullanıcı sayısı, oyuncu başına ortalama süre ve yaş grubu bazlı çeyrek analizlerini içermektedir.
+The dashboard includes monthly user count, average playtime per player, and quarterly analysis by age groups.
 
 📊 Key Features
 	•	Dual Axis Chart (User Count & Battle Pass Share)
